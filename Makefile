@@ -1,2 +1,2 @@
 requirements:
-	pipenv lock -r
+	pipenv lock -r > requirements.txt
